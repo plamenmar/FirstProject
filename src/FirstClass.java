@@ -8,5 +8,6 @@ public class FirstClass {
         System.out.println("First changes for git");
         System.out.println("Second changes for git before pulling anything");
         System.out.println("third push to git");
+        System.out.println("Fourth push to git");
     }
 }
