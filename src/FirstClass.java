@@ -6,5 +6,6 @@ public class FirstClass {
         int sum=a+b;
         System.out.println(sum);
         System.out.println("First changes for git");
+        System.out.println("Second changes for git before pulling anything");
     }
 }
