@@ -5,5 +5,6 @@ public class FirstClass {
         int b=8;
         int sum=a+b;
         System.out.println(sum);
+        System.out.println("First changes for git");
     }
 }
